@@ -4,7 +4,7 @@
   <groupId>org.znerd</groupId>
   <artifactId>jquery-ui-amd</artifactId>
   <packaging>pom</packaging>
-  <version>1.8.16.000-SNAPSHOT</version>
+  <version>1.8.16.000</version>
 
   <name>jQuery UI AMD Library</name>
   <description>jQuery UI with AMD wrapper</description>
@@ -30,7 +30,7 @@
     <connection>scm:git:git@github.com:znerd/jquery-ui-amd.git</connection>
     <developerConnection>scm:git:git@github.com:znerd/jquery-ui-amd.git</developerConnection>
     <url>git@github.com:znerd/jquery-ui-amd.git</url>
-    <tag>HEAD</tag>
+    <tag>jquery-ui-amd-1.8.16.000</tag>
   </scm>
 
   <issueManagement>
